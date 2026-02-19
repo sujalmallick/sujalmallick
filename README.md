@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ebae5,100:000000&height=200&section=header&text=Sujal%20Mallick&fontSize=50&animation=fadeIn" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sujal%20Mallick&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20ML%20%7C%20Systems%20Builder&descSize=20&descAlignY=65" />
 </div>
+
 
 <h1 align="center">Hi there, I’m Sujal 👋</h1>
 <h3 align="center">Computer Science Student | AI & ML Explorer </h3>
