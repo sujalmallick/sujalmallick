@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:2ebae5,100:000000&height=220&section=header&text=Building%20with%20AI%20%F0%9F%A7%A0&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Sujal%20Mallick%20%7C%20Computer%20Science%20Student&descSize=22&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:2ebae5,100:000000&height=220&section=header&text=Building%20with%20AI&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Sujal%20Mallick%20%7C%20Computer%20Science%20Student&descSize=22&descAlignY=65" />
 </div>
+
 
 
 <h1 align="center">Hi there, I’m Sujal 👋</h1>
