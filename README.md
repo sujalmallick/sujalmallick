@@ -25,10 +25,10 @@
 
 ## 🧠 About Me
 
-I’m a **Computer Science student** with a passion for building things that make life easier — especially in the world of **AI, ML, and practical software**.
+I’m a **Computer Science student** with a passion for building things that may make life easier — especially in the world of **AI, ML, and practical software**.
 
 I enjoy:
-- 🔹 Exploring Machine Learning & Deep Learning
+- 🔹 Exploring techs
 - 🔹 Building useful Python and Web apps
 - 🔹 Learning systems, algorithms, and efficient computation
 - 🔹 Contributing to open source and collaborating on projects
