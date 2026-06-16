@@ -64,8 +64,6 @@ Here are some of my recent works:
 - **[voice-recognition-spotify-agent](https://github.com/sujalmallick/voice-recognition-spotify-agent)** – Voice-controlled Spotify bot  
 - **[Multipage-webApp-using-Streamlit](https://github.com/sujalmallick/Multipage-webApp-using-Streamlit)** – Streamlit multi-page app
 
-*(You can edit your pinned repos right on GitHub)*
-
 ---
 
 ## 📊 GitHub Stats
