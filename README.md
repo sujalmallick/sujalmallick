@@ -2,50 +2,54 @@
   <img src="https://capsule-render.vercel.app/api?type=blur&color=0:2ebae5,100:000000&height=220&section=header&text=Building%20with%20AI&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Sujal%20Mallick%20%7C%20Computer%20Science%20Student&descSize=22&descAlignY=65" />
 </div>
 
-
-
-<h1 align="center">Hi there, I’m Sujal 👋</h1>
-<h3 align="center">Computer Science Student | AI & ML Explorer </h3>
+<h1 align="center">Hi there, I'm Sujal 👋</h1>
+<h3 align="center">Computer Science Student | AI & ML Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=2ebae5&center=true&vCenter=true&width=600&lines=Learning+Computer+Science;AI+%26+Machine+Learning;Building+Cool+Projects;Collaborating+on+Open+Source" alt="typing-svg"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2EBAE5&center=true&vCenter=true&width=600&lines=Learning+Computer+Science;AI+%26+Machine+Learning;Building+Cool+Projects;Collaborating+on+Open+Source" alt="typing-svg"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sujalmallick">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:sujalmallick123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/sujalmallick">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sujalmallick&style=for-the-badge&color=2ebae5" alt="Profile views"/>
 </p>
 
 ---
 
-## 🧠 About Me
+### 🧠 About Me
 
-I’m a **Computer Science student** with a passion for building things that may make life easier — especially in the world of **AI, ML, and practical software**.
+I'm a **Computer Science student** with a passion for building things that make life easier — especially in the world of **AI, ML, and practical software**.
 
 I enjoy:
-- 🔹 Exploring techs
-- 🔹 Building useful Python and Web apps
+- 🔹 Exploring new technologies
+- 🔹 Building useful Python and web apps
 - 🔹 Learning systems, algorithms, and efficient computation
 - 🔹 Contributing to open source and collaborating on projects
 
 ---
 
-## 💻 Tech Stack
+### 💻 Tech Stack
 
-### 🧠 Programming Languages
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🔧 Tools & Frameworks
+**Tools & Frameworks**
+
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -54,34 +58,33 @@ I enjoy:
 
 ---
 
-## 🚀 Projects
+### 🚀 Projects
 
-Here are some of my recent works:
-
-### ⭐ Pinned Repos
-- **[yt-summarizer-ai](https://github.com/sujalmallick/yt-summarizer-ai)** – YouTube video summarizer using AI  
-- **[spotify-ai-agent](https://github.com/sujalmallick/spotify-ai-agent)** – Create playlists using natural language  
-- **[voice-recognition-spotify-agent](https://github.com/sujalmallick/voice-recognition-spotify-agent)** – Voice-controlled Spotify bot  
-- **[Multipage-webApp-using-Streamlit](https://github.com/sujalmallick/Multipage-webApp-using-Streamlit)** – Streamlit multi-page app
+| Project | Description |
+|---|---|
+| **[yt-summarizer-ai](https://github.com/sujalmallick/yt-summarizer-ai)** | YouTube video summarizer using AI |
+| **[spotify-ai-agent](https://github.com/sujalmallick/spotify-ai-agent)** | Create playlists using natural language |
+| **[voice-recognition-spotify-agent](https://github.com/sujalmallick/voice-recognition-spotify-agent)** | Voice-controlled Spotify bot |
+| **[Multipage-webApp-using-Streamlit](https://github.com/sujalmallick/Multipage-webApp-using-Streamlit)** | Streamlit multi-page app |
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/sujalmallick">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sujalmallick&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  </a>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sujalmallick&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujalmallick&theme=tokyonight" alt="Streak Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sujalmallick&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sujalmallick&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=sujalmallick&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
 </div>
 
 ---
 
-## 🤝 Let’s Connect
+### 🤝 Let's Connect
 
-I’m open to:
+I'm open to:
 - 🧩 Collaboration on cool tech projects
 - 💡 Internships or research opportunities
 - 📚 Learning together
