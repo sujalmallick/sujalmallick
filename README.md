@@ -123,3 +123,5 @@ I'm open to:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2ebae5&height=120&section=footer"/>
 </div>
+
+<!-- profile formatting touch -->
